@@ -1,0 +1,75 @@
+C:\Zajęcia\2021\Programowanie Obiektowe\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Zajęcia\2021\Programowanie Obiektowe\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Zajęcia\2021\Programowanie Obiektowe\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Zajęcia\2021\Programowanie Obiektowe\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Zajęcia\2021\Programowanie Obiektowe\Kalkulator\Kalkulator\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Zajęcia\2021\Programowanie Obiektowe\Kalkulator\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+C:\Zajęcia\2021\Programowanie Obiektowe\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Zajęcia\2021\Programowanie Obiektowe\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Zajęcia\2021\Programowanie Obiektowe\Kalkulator\Kalkulator\Kalkulator\obj\Debug\MainWindow.baml
+C:\Zajęcia\2021\Programowanie Obiektowe\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Zajęcia\2021\Programowanie Obiektowe\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Zajęcia\2021\Programowanie Obiektowe\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Zajęcia\2021\Programowanie Obiektowe\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Zajęcia\2021\Programowanie Obiektowe\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Zajęcia\2021\Programowanie Obiektowe\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\defco\Downloads\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\defco\Downloads\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\defco\Downloads\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\defco\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\defco\Downloads\Kalkulator\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\defco\Downloads\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+C:\Users\defco\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\defco\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\defco\Downloads\Kalkulator\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\defco\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\defco\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\defco\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\defco\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\defco\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\defco\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\defco\Downloads\Kalkulator_DanielPiotrowski\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\defco\Downloads\Kalkulator_DanielPiotrowski\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\defco\Downloads\Kalkulator_DanielPiotrowski\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\defco\Downloads\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\defco\Downloads\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\defco\Downloads\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\App.g.cs
+C:\Users\defco\Downloads\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\defco\Downloads\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\defco\Downloads\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\defco\Downloads\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\defco\Downloads\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\defco\Downloads\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\defco\Downloads\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\defco\Downloads\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\defco\Downloads\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\panda\Desktop\Kalkulator_DanielPiotrowski\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\panda\Desktop\Kalkulator_DanielPiotrowski\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\panda\Desktop\Kalkulator_DanielPiotrowski\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\panda\Desktop\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\panda\Desktop\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\panda\Desktop\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\App.g.cs
+C:\Users\panda\Desktop\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\panda\Desktop\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\panda\Desktop\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\panda\Desktop\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\panda\Desktop\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\panda\Desktop\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\panda\Desktop\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\panda\Desktop\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\panda\Desktop\Kalkulator_DanielPiotrowski\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\panda\Desktop\Nowy folder\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\panda\Desktop\Nowy folder\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\panda\Desktop\Nowy folder\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\panda\Desktop\Nowy folder\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\panda\Desktop\Nowy folder\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\panda\Desktop\Nowy folder\Kalkulator\obj\Debug\App.g.cs
+C:\Users\panda\Desktop\Nowy folder\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\panda\Desktop\Nowy folder\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\panda\Desktop\Nowy folder\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\panda\Desktop\Nowy folder\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\panda\Desktop\Nowy folder\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\panda\Desktop\Nowy folder\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\panda\Desktop\Nowy folder\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\panda\Desktop\Nowy folder\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\panda\Desktop\Nowy folder\Kalkulator\obj\Debug\Kalkulator.pdb
